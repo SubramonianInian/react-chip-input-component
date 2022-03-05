@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import "../chip/chip.css";
 export const Chip = ({ chips, setChips, placeholder, chipPrefix = "" }) => {
   const [value, setValue] = useState("");
