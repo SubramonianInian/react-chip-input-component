@@ -10,7 +10,7 @@ npm i react-ui-chip-input
 ```tsx
 import React, { useState } from 'react'
 
-import Chip from 'react-ui-chip-input'
+import {Chip} from 'react-ui-chip-input'
 
 const ReactChips = () => {
   const [chips, setChips] = useState([])
