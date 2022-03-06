@@ -1,4 +1,8 @@
 "# react-chip-input-component" 
+ 
+ ##Demo
+ 
+ ![GIF Example](./chip-input.gif)
 
 ## Install 
 ```bash
