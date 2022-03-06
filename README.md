@@ -1,4 +1,6 @@
-"# react-chip-input-component" 
+# react-chip-input-component
+
+> Provides a chip input component. 
  
  ## Demo
 
