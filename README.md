@@ -1,7 +1,7 @@
 "# react-chip-input-component" 
  
- ##Demo
- 
+ ## Demo
+
  ![GIF Example](./chip-input.gif)
 
 ## Install 
